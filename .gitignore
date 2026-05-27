@@ -1,0 +1,33 @@
+# 密钥和配置
+.env
+AutoLogin.yml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# NapCatQQ (太大，二进制)
+napcat/
+
+# Mirai (已废弃)
+mirai/
+
+# 数据
+nonebot/data/
+
+# 表情包（自己收集的不用共享）
+memes/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# 系统
+Thumbs.db
+*.tmp
+*.log
+logs/
